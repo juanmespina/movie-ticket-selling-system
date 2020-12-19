@@ -1,0 +1,25 @@
+body {
+    background-image: url("./img/bg.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+}
+
+nav {
+    position: fixed;
+    top: 0px;
+}
+
+.row-menu {
+    height: 150px;
+}
+
+footer {
+    position: fixed;
+    bottom: 0px;
+}
+
+/* h5, h6, h2 {
+    color: black;
+} */
